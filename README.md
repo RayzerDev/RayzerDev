@@ -78,8 +78,15 @@ Vous trouverez sur ce GitHub différents :
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayzerdev&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RayzerDev&repo=ODeFrance&theme=material-palenight&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RayzerDev&repo=PurpleOctopus&theme=material-palenight&hide_border=true" align="center" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=RayzerDev&limit=5&theme=material-palenight&combine_all_yearly_contributions=true&hide_border=true" align="center" />
+  <br/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayzerdev&hide_border=true&layout=compact&theme=material-palenight" align="center" /> 
+</div> 
+  
 <br/>  
 
 
@@ -90,7 +97,7 @@ Vous trouverez sur ce GitHub différents :
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=RayzerDev&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=RayzerDev&&color=blueviolet" align="center" />
 </div>  
   
 
