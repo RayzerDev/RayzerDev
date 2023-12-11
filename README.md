@@ -1,8 +1,4 @@
 ### <div align="center">Moi c'est RayzerDev ! Etudiant en BUT Informatique </div>  
-  
-
-Je recherche une alternance pour Janvier 2024 dans le développement informatique pour 18 mois.  
-  
 
 Vous trouverez sur ce GitHub différents :  
   
