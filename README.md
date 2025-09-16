@@ -1,4 +1,4 @@
-### <div align="center">Moi c'est RayzerDev ! Etudiant en BUT Informatique </div>  
+### <div align="center">Moi c'est RayzerDev ! Apprenti ingénieur en informatique de l'IMT Nord Europe</div>  
 
 Vous trouverez sur ce GitHub différents :  
   
